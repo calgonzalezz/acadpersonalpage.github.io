@@ -3,7 +3,7 @@ title: "Comparative analysis of regulatory governance regimes in the OECD (with 
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper proposes a novel method based on text analysis tools to summarise and measure the implementation of the Independent Regulatory Agency model. Based on the novel measures, the papers evaluates the extent to which a set of 24 OECD countries have implemented the model between 2013 and 2018. The implications for this changes are evaluated.'
-date: 2023-01-16
+date: 2021-10-01
 venue: 'GovReg WP'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 
