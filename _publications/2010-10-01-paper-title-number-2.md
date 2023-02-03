@@ -3,7 +3,7 @@ title: "Impact of Regulatory Governance Regimes on Renewable Energies: An empiri
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper investigates the relationship between the governance of regulatory agencies and renewable electricity generation in a sample of 24 OECD countries. Our results suggest that regulatory independence supports current the current market paradigm which conflicts with the introduction of renewable energies.'
-date: 2023-02-03
+date: 2022-10-01
 venue: 'Chair Governance and Regulation WP'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 
