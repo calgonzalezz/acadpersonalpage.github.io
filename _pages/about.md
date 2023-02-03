@@ -8,6 +8,16 @@ redirect_from:
   - /about.html
 ---
 
+I am an economist interested in topics related to economic regulation, governance of regulatory agencies and policy evaluation. I am also interested in text analysis algorithm application and causal inference.
+
+I hold a PhD in Management under the supervision of professor Eric Brousseau at Paris Dauphine University - PSL.
+
+I have professional experience in policy analysis in international affairs, trade and energy topics. 
+
+My CV is available in the following [link](https://calgonzalezz.github.io/perspage/cgonzalez_CV.pdf).
+
+A complete list of my work and current projects are presented in the page. 
+
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
