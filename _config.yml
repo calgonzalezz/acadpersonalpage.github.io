@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "c. Gonzalez / Personal Page"
+title                    : "C. Gonzalez / Personal Page"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Economist, PhD in Management"
