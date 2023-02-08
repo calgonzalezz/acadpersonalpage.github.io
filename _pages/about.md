@@ -14,4 +14,4 @@ I hold a PhD in Management under the supervision of professor Eric Brousseau at 
 
 I have professional experience in policy analysis in international affairs, trade and energy.  
 
-The latest version of my CV is available in the following [link](https://calgonzalezz.github.io/perspage/cgonzalez_CV.pdf).
+The latest version of my CV is available in the following [link](https://calgonzalezz/acadpersonalpage.github.io/cgonzalez_CV.pdf).
