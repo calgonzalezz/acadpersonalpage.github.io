@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in Economics, Pontifical Catholic University, Quito-Ecuador, 2011
-* M.S. in Economics, Tilburg University, Tilburg-NL, 2016
-* M.S. in Econometrics and Mathematical Economics, Tilburg University, Tilburg-NL, 2017
 * Ph.D in Management, Paris Dauphine-PSL University, 2023
+* M.S. in Econometrics and Mathematical Economics, Tilburg University, Tilburg-NL, 2017
+* M.S. in Economics, Tilburg University, Tilburg-NL, 2016
+* B.S. in Economics, Pontifical Catholic University, Quito-Ecuador, 2011
 
 Professional experience
 ======
@@ -46,7 +46,7 @@ Skills
 * Languages:
 	* Spanish (native)
 	* English (professional proficiency)
-	* French (limited proficiency)
+	* French (intermediate proficiency)
 
 Publications
 ======
